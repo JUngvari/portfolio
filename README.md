@@ -1,2 +1,2 @@
 # portfolio
-This website is the place to compile my communications portfolio.
+This is the place where I compile my communications portfolio.
