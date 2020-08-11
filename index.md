@@ -7,6 +7,9 @@ Whenever I publish a communication piece, I will rebuild the site.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+### Peer-reviewed Journal Articles
+
 ### Jekyll Themes
 
 This site will use the layout and styles from the Jekyll Modernist theme.
